@@ -25,7 +25,13 @@ public class Main {
             System.out.println();
         }
 
-
+        String result = announceWinner(matrix);
+        if(result.equalsIgnoreCase("X") || result.equalsIgnoreCase("O")){
+            System.out.println("The winner is " + result);
+        } else{
+            System.out.println();
+            System.out.println(result);
+        }
     }
 
     public static String anounceWinner(char[][] matrix){
