@@ -2,15 +2,21 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Lecture6/AnimalKingdom/AnimalKingdom.iml" filepath="$PROJECT_DIR$/Lecture6/AnimalKingdom/AnimalKingdom.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lecture6/CookieFactory/CookieFactory.iml" filepath="$PROJECT_DIR$/Lecture6/CookieFactory/CookieFactory.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lecture5/Ex1_Heros_Vehicle/Ex1_Heros_Vehicle.iml" filepath="$PROJECT_DIR$/Lecture5/Ex1_Heros_Vehicle/Ex1_Heros_Vehicle.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lecture4/Ex1_TheHeroStats/Ex1_TheHeroStats.iml" filepath="$PROJECT_DIR$/Lecture4/Ex1_TheHeroStats/Ex1_TheHeroStats.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lecture4/Ex2_TheCarShowDown/Ex2_TheCarShowDown.iml" filepath="$PROJECT_DIR$/Lecture4/Ex2_TheCarShowDown/Ex2_TheCarShowDown.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lecture4/Ex3_TheDungeonExplorer/Ex3_TheDungeonExplorer.iml" filepath="$PROJECT_DIR$/Lecture4/Ex3_TheDungeonExplorer/Ex3_TheDungeonExplorer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lecture6/Exercise1/Exercise1.iml" filepath="$PROJECT_DIR$/Lecture6/Exercise1/Exercise1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lecture5/Exercise2/Exercise2.iml" filepath="$PROJECT_DIR$/Lecture5/Exercise2/Exercise2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lecture5/Exercise3/Exercise3.iml" filepath="$PROJECT_DIR$/Lecture5/Exercise3/Exercise3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lecture6/FamilyTree/FamilyTree.iml" filepath="$PROJECT_DIR$/Lecture6/FamilyTree/FamilyTree.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lecture4/Lecture4.iml" filepath="$PROJECT_DIR$/Lecture4/Lecture4.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lecture5/Lecture5.iml" filepath="$PROJECT_DIR$/Lecture5/Lecture5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lecture6/Lecture6.iml" filepath="$PROJECT_DIR$/Lecture6/Lecture6.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Matej_Bazerkoski_6121.iml" filepath="$PROJECT_DIR$/.idea/Matej_Bazerkoski_6121.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lecture6/TheBattleoftheSuperheroes/TheBattleoftheSuperheroes.iml" filepath="$PROJECT_DIR$/Lecture6/TheBattleoftheSuperheroes/TheBattleoftheSuperheroes.iml" />
     </modules>
   </component>
 </project>
